@@ -3,7 +3,11 @@ package ie.atu.sw;
 import java.nio.file.*;
 import java.util.*;
 
+/*
+ * Handling the user specified directory to source the files for encryption from.
+ */
 public class Directory {
+	
 
 	private Scanner sc;
 
